@@ -14,4 +14,6 @@ setup(
     description="A test package for pydeploy students",
     long_description=pre_install(),
     requires=[]
+    author_email="sshosseinivaez@gmail.com"
+    packages=["amoo_sina_lion"]
 )
