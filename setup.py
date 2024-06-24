@@ -2,8 +2,9 @@ from setuptools import setup
 
 
 def pre_install():
-    f = open('README.md', 'r')
-    text = f.read()
+    # f = open('README.md', 'r')
+    # text = f.read()
+    text = "#Amoo Sina Lion Package"
     return text
 
 
