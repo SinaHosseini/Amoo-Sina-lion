@@ -15,5 +15,5 @@ setup(
     long_description=pre_install(),
     requires=[]
     author_email="sshosseinivaez@gmail.com"
-    packages=["amoo-sina-lion"]
+    packages=["amoo_sina_lion"]
 )
